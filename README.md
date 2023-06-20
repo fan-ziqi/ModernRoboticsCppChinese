@@ -1,5 +1,5 @@
 # C++ 库: 现代机器人学：机构、规划与控制(中文版)
-
+# 注意，此仓库与上游分叉过多，已转移至新仓库[ModernRoboticsCpp-zh-CN](https://github.com/fan-ziqi/ModernRoboticsCpp-zh-CN)，本仓库停止维护。
 ## 更新
 
 2022.10.08 改进SO3和SE3相关的注释
